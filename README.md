@@ -1,6 +1,6 @@
 # deeplearning-Assignment-10
 
-github link : https://drive.google.com/drive/folders/1Ygs0BJvauuCzguxYpY-ZBOiwiBBB2nuX?usp=share_link
+video link : https://drive.google.com/drive/folders/1Ygs0BJvauuCzguxYpY-ZBOiwiBBB2nuX?usp=share_link
 Description:
 
 import pandas as pd #Basic packages for creating dataframes and loading dataset
